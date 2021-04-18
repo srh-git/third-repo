@@ -1,5 +1,6 @@
-main :  F1->F2->F3->F4->F6->F7->F8
-   Feature:       ->F5
-   Rebase: F1->F2->F3->F4->F6->F7->F8->F5
+main :  F1->F2->F3->F4->F6->F7->F8->F10->F12
+   Feature:                         ->F9
+   This is our objective to achieve
+   Rebase: F1->F2->F3->F4->F6->F7->F8->F10->F12->F9
    
    
